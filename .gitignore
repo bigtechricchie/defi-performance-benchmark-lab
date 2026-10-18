@@ -1,0 +1,30 @@
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors and IDEs
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Node package installations
+node_modules/
+
+# Package manager and framework caches
+.angular/
+.vite/
+
+# Build output
+dist/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
